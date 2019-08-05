@@ -24,6 +24,8 @@ p {font-size: 1.4em; line-height: 1.6em; color: #080665; margin-bottom: 0.7em;}
 
 .menuText {color:#FFFFFF; font:400 18px Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;}
 
+.menuDropText {color:#000000; font:400 18px Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;}
+
 a:link {color:#0e1a58;text-decoration:none}
 
 a:visited {color:#0e1a58;text-decoration:none}
